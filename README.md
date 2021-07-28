@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Marques</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Hotmart](https://hotmart.com)
+- 🔭 I’m currently working at [Hotmart](https://hotmart.com)
 
 - 💬 Ask me about **Ruby & JavaScript**
 
