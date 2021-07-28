@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Ruby & JavaScript**
 
-- 📫 How to reach me **leandronascimento.dev@gmail.com**
+- 📫  How to reach me **leandronascimento.dev@gmail.com**
 
 - ⚡ Fun fact **I started coding due to Dragon Ball. Pay me a coffee and I can tell you.**
 
