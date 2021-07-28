@@ -7,7 +7,7 @@
 
 📫  How to reach me **leandronascimento.dev@gmail.com**
 
-⚡ Fun fact **I started coding due to Dragon Ball. Pay me a coffee and I can tell you.**
+⚡ Fun fact **I started coding due to Dragon Ball. Pay me a coffee and I can tell you more.**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
