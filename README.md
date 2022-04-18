@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, Leandro Marques here! Nice to meet you.</h1>
-<h3 align="center">I'm a passionate software engineer from Brazil living in the Netherlands.</h3>
+<h3 align="center">I'm a Software Engineer from Brazil currently living in the Netherlands.</h3>
 
 
 Now I'm working at [Navinfo Europe](https://navinfo.eu)
