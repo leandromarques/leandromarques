@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, Leandro Marques here! Nice to meet you.</h1>
+<h1 align="center">Hi there, Leandro Marques here!</h1>
 <h3 align="center">I'm a Software Engineer from Brazil currently living in the Netherlands.</h3>
 
 
