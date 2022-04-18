@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, Leandro Marques here!</h1>
-<h3 align="center">I'm a Software Engineer from Brazil currently living in the Netherlands.</h3>
+<h1>Hi there, Leandro Marques here!</h1>
+<h3>I'm a Software Engineer from Brazil currently living in the Netherlands.</h3>
 
 
 Currently I work at [Navinfo Europe](https://navinfo.eu)
@@ -16,4 +16,4 @@ You can get in touch with me at **leandronascimento.dev@gmail.com**
 <h4 align="left">Languages:</h4>
 <p> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></p>
 
-**I started coding because of Dragon Ball. Pay me a coffee and I can tell you more about it.**
+🤓 **I started coding because of Dragon Ball. Pay me a coffee and I can tell you more about it.**
