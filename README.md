@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Software Engineer from Brazil currently living in the Netherlands.</h3>
 
 
-Now I'm working at [Navinfo Europe](https://navinfo.eu)
+Currently I work at [Navinfo Europe](https://navinfo.eu)
 
 I've been working as a Software Engineer since 2013. I can help you with **Ruby & JavaScript** and its ecosystems.
 
