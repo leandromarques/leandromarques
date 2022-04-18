@@ -4,7 +4,7 @@
 
 Now I'm working at [Navinfo Europe](https://navinfo.eu)
 
-I work as a Software Engineer since 2013. I can help you with **Ruby & JavaScript** and its ecosystems.
+I've been working as a Software Engineer since 2013. I can help you with **Ruby & JavaScript** and its ecosystems.
 
 You can get in touch with me at **leandronascimento.dev@gmail.com**
 
